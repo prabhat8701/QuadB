@@ -4,7 +4,6 @@ This project is a To-do website built using the MERN (MongoDB, Express.js, React
 
 Deployed Link -  https://client-todo-seven.vercel.app/
 
-Demo Video - https://drive.google.com/file/d/1J1XEiWPRBhPvuf881hYJwiQb8se-W84d/view?usp=drive_link
 
 ## Installation:
 
